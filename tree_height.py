@@ -1,3 +1,4 @@
+# 221RDC045 Aigars Kraulis 18.g.
 import sys
 import threading
 
